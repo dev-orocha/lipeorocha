@@ -31,7 +31,7 @@
     <img aLign="center" alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
     </div>
 
-### </br> Esse Redme foi feito com: 
+### </br> Esse Readme foi feito com: 
 
 <div style="display: inline_block"><br/>
     <img aLign="center" alt="HTML5" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
