@@ -1,3 +1,4 @@
+
 ### Olá, sou Felipe Rocha - estudante em formação
 </br>
 
@@ -24,6 +25,6 @@
     <img aLign="center" alt="CASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
 
-### </br> Estudante das tecnologias, amante da programação e futuro desenvolvedor full stack.
+### </br> Estudante em formação, amante da programação e futuro desenvolvedor full stack.
 
 #### </br>E-mail para contato: lipeorocha@gmail.com
